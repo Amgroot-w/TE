@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Python Codes\\TE\\TE_SaveDAE\\Classification/SaveDAE_NeuralNetwork.ckpt"
+all_model_checkpoint_paths: "D:\\Python Codes\\TE\\TE_SaveDAE\\Classification/SaveDAE_NeuralNetwork.ckpt"

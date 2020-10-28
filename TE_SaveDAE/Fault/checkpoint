@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Python Codes\\TE\\TE_SaveDAE\\Fault/SaveDAE_Fault.ckpt"
+all_model_checkpoint_paths: "D:\\Python Codes\\TE\\TE_SaveDAE\\Fault/SaveDAE_Fault.ckpt"

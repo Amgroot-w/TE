@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Python Codes\\TE\\SaveTE_Feature/SaveTE_Feature.ckpt"
+all_model_checkpoint_paths: "D:\\Python Codes\\TE\\SaveTE_Feature/SaveTE_Feature.ckpt"
