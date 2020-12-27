@@ -224,8 +224,13 @@ if __name__ == '__main__':
     # plot2()
     # plot3()
     # 以下为论文用图
+    plt.figure()
     plot4()
+    plt.figure()
     plot5()
+    plt.figure()
     plot6()
+    plt.figure()
     plot7()
+    plt.figure()
     plot8()
