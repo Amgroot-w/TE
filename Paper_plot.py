@@ -1,14 +1,11 @@
-
 """
 《北京化工大学学报》投稿用图
-换一行，或者换一列试试效果
-"""
 
+"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from PIL import Image
-from TE_plot import plot8
 
 plt.rcParams['font.sans-serif'] = ['SimHei']
 plt.rcParams['axes.unicode_minus'] = False

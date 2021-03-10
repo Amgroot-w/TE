@@ -91,6 +91,8 @@ def tSNE_visualize(fault_names, train_feature, train_y, test_feature, test_y, ti
 
 # 绘制故障实时监控图、故障检出点、漏检个数
 # 中文名称版
+# 2021.3.10记录：画图竟然不保存，直接在sciview里面调取图片，真特么傻！
+# （以后记住了：小论文所需的图往往需要多次修改，尽量保存一份！而且要尽量保存成svg格式、emf格式的，不要用png!）
 def test_plot(fault_name, test_fault_prob):
     # 定义阈值
     threshold = 1/2 * (max(test_fault_prob) + min(test_fault_prob))
