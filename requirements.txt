@@ -1,0 +1,10 @@
+numpy==1.19.5
+pandas==1.1.5
+tensorflow==1.6.0
+matplotlib==3.3.4
+xgboost==1.4.2
+scipy==1.5.4
+cap==0.0.114
+opcua==0.98.13
+Pillow==8.2.0
+scikit_learn==0.24.2
