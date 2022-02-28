@@ -1,4 +1,7 @@
 # 毕设TE
+
+小论文：《基于LSTM-DAE的化工故障诊断方法研究》：https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=BJHY202102014&uniplatform=NZKPT&v=5OxacFuB0g0t-8sc6diq6ccHqUGGhq0R5xACgSE3P_gfqqXkIaD1DA9ZSXHBkQD6
+
 2021.6.10更新
 
 + **项目环境：python3.6**
