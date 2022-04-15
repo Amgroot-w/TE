@@ -1,6 +1,6 @@
 # 毕设TE
 
-小论文：《基于LSTM-DAE的化工故障诊断方法研究》：https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=BJHY202102014&uniplatform=NZKPT&v=5OxacFuB0g0t-8sc6diq6ccHqUGGhq0R5xACgSE3P_gfqqXkIaD1DA9ZSXHBkQD6
+[1]张敬川,田慧欣.基于LSTM-DAE的化工故障诊断方法研究[J].北京化工大学学报(自然科学版),2021,48(02):108-116.DOI:10.13543/j.bhxbzr.2021.02.014.
 
 2021.6.10更新
 
